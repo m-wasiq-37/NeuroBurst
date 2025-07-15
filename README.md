@@ -6,8 +6,8 @@ A cyberpunk‑themed 2D action‑defense arcade game built with Flutter + Flame.
 **Game Overview**
 
 NeuroBurst challenges you to survive relentless waves of enemies in a neon-drenched digital battlefield. Swift taps, strategic defense, and reactive gameplay define the experience.
-<img width="500" height="302" alt="4" src="https://github.com/user-attachments/assets/d86c1a3a-b928-4f7b-8730-50481f922297" />
 
+<img width="500" height="302" alt="4" src="https://github.com/user-attachments/assets/d86c1a3a-b928-4f7b-8730-50481f922297" />
 **Features**
 - Fast-paced, reflex-driven gameplay  
 - Futuristic, cyberpunk-inspired UI and visuals  
