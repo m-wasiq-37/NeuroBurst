@@ -55,6 +55,6 @@ Project Structure
 
 Credits
 
- Developers: Muhammad Wasiq & Muhammad Huzaifa
- Context: Final-year MAD Lab semester project
- License: MIT — see [LICENSE](LICENSE) for details
+ Developers: Muhammad Wasiq
+
+ Context: MAD Lab semester project
