@@ -1,4 +1,5 @@
 # NeuroBurst
+<img width="493" height="311" alt="1" src="https://github.com/user-attachments/assets/88976f2b-86e7-462b-ae29-3e1f8e7116e4" />
 
 A cyberpunk‑themed 2D action‑defense arcade game built with Flutter + Flame. Developed as the Mobile App Development (MAD) Lab final year project by Muhammad Wasiq & Muhammad Huzaifa.
 
