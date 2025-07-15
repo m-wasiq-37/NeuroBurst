@@ -1,4 +1,4 @@
-#**NeuroBurst**
+# NeuroBurst
 
 A cyberpunk‑themed 2D action‑defense arcade game built with Flutter + Flame. Developed as the Mobile App Development (MAD) Lab final year project by Muhammad Wasiq & Muhammad Huzaifa.
 
@@ -21,13 +21,13 @@ NeuroBurst challenges you to survive relentless waves of enemies in a neon-drenc
 
 
 
-**Getting Started**
+# Getting Started
 
-Prerequisites:  
+**Prerequisites:**  
 - Flutter SDK installed  
 - Git
 
-Setup:
+**Setup:**
 1. Clone the repo:  
    ```bash
    git clone https://github.com/Wasiq37/Neuroburst.git
