@@ -1,17 +1,17 @@
-NeuroBurst
+**NeuroBurst**
 
 A cyberpunk‑themed 2D action‑defense arcade game built with Flutter + Flame. Developed as the Mobile App Development (MAD) Lab final year project by Muhammad Wasiq & Muhammad Huzaifa.
 
-Game Overview:
+**Game Overview**
 NeuroBurst challenges you to survive relentless waves of enemies in a neon-drenched digital battlefield. Swift taps, strategic defense, and reactive gameplay define the experience.
 
-Features
+**Features**
 - Fast-paced, reflex-driven gameplay  
 - Futuristic, cyberpunk-inspired UI and visuals  
 - Built cross-platform with Flutter and Flame engine  
 - Smooth animations and responsive controls  
 
-Tech Stack
+**Tech Stack**
 | Layer     | Technology               |
 |-----------|--------------------------|
 | UI & Game | Flutter + Flame          |
@@ -20,7 +20,7 @@ Tech Stack
 
 
 
-Getting Started
+**Getting Started**
 
 Prerequisites:  
 - Flutter SDK installed  
@@ -47,14 +47,13 @@ Setup:
    flutter run
    ```
 
-Project Structure
+**Project Structure**
 
  `lib/` – Core game logic, UI widgets, and Flame components
  `assets/` – Image/sound resources for effects and visuals
  `pubspec.yaml` – Dependency declarations and asset registration
 
-Credits
+**Credits**
 
  Developers: Muhammad Wasiq
-
  Context: MAD Lab semester project
